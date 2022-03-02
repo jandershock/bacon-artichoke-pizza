@@ -1,0 +1,13 @@
+.pizza__section {
+    border: 10px solid black;
+    padding: 0 1em;
+    background-color: white;
+}
+
+.pizza__container {
+    padding: 0 3em;
+}
+
+body {
+    background-color: aqua;
+}

@@ -28,3 +28,7 @@ const pizza = [
 		toppings: ["black olives", "peppers", "onions", "tomato"]
 	}
 ]
+
+export const getPizza = () => {
+    return pizza;
+}
